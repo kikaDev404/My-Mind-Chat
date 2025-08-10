@@ -3,14 +3,15 @@
 This project is designed to let others "chat with your mind" through an LLM. You can adapt it for different purposes.
 
 For example:
+**
+1.Invite your audience to use the tool to directly converse with your mind.
 
-Invite your audience to use the tool to directly converse with your mind.
+1.Instead of sending a traditional resume, configure your mind and share this tool with recruiters so they can interact with it and learn about you.
 
-Instead of sending a traditional resume, configure your mind and share this tool with recruiters so they can interact with it and learn about you.
+1.Build a customer support agent that reflects your knowledge, style, and personality.
 
-Build a customer support agent that reflects your knowledge, style, and personality.
-
-Preserve a knowledge archive of your thoughts for friends, family, or future generations.
+1.Preserve a knowledge archive of your thoughts for friends, family, or future generations.
+**
 
 The possibilities are endless. You can tune your mind for any purpose by editing the my_emotion.txt file.
 
